@@ -1,6 +1,6 @@
-<h1 align="center" style="text-align: center;">Personal Rock Projects🔥</h1>
+<h1 align="center" style="text-align: center;">Personal Rock Projects</h1>
 <p align="center">A simple showcase for what i have done for recently and hosted in Github.</p>
-<p align="center">&copy;2019 Deary, All Right Reserved</p>
+<p align="center">&copy;2019 Deary, All Right Reserved.</p>
 ---
 
 ## User Interface Things:
@@ -63,7 +63,7 @@ Simple testing website for raccoon or blog hobby things as an example.
 
 ## 1. SpaceX_Rocket_Mission
 
-A new stack for develoepr using Graphql, apollo and react. Which can be fast with this query language made by Facebook. Take Spacex API to develop a single web page to see the details of Spacex mission statistics and details. using Node (Express Framework)
+A new stack for develoepr using Graphql, apollo and react. Which can be fast with this query language made by Facebook. Take Spacex API to develop a single web page to see the details of Spacex mission statistics and details. using Node (Express Framework).
 
 <a href="https://github.com/Ketibansapi/SpaceX_Mission_Stats">Source code</a> | <a href="https://frozen-atoll-22554.herokuapp.com/"> Demo link </a>
 
