@@ -1,6 +1,6 @@
 <h1 align="center" style="text-align: center;">Personal Rock Projects🔥</h1>
 <p align="center">A simple showcase for what i have done for recently and hosted in Github.</p>
-<p align="center">&copy;2019 All Right Reserved</p>
+<p align="center">&copy;2019 Deary, All Right Reserved</p>
 ---
 
 ## User Interface Things:
@@ -56,6 +56,8 @@ A religion services purpose. For them share a inspiration story, profile and sch
 Simple testing website for raccoon or blog hobby things as an example.
 
 <a href="https://powerraccoon.wordpress.com/"> Demo link
+
+
 
 ## Full-Stack Application things:
 
