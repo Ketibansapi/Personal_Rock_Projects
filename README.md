@@ -1,9 +1,10 @@
 <h1 align="center" style="text-align: center;">Personal Rock Projects🔥</h1>
 <p align="center">A simple showcase for what i have done for recently and hosted in Github.</p>
 <p align="center">&copy;2019 All Right Reserved</p>
+
 ---
 
-## All around the User Interface:
+## User Interface Things:
 
 ## 1. Grizzee.io
 
@@ -34,3 +35,20 @@ Implemented Brad couse in bootstrap for building this template. A team project s
 Inspired from HTML5UP template for the team project startup profile purpose and responsive for any devices.
 
 <a href="https://github.com/Ketibansapi/Kreasi_Co">Source code</a> | <a href="https://dazzling-cori-c108c0.netlify.com/"> Demo link
+
+---
+
+## Content Management System Things:
+
+## 1. Permana_Id
+
+Network service provider company profile using content management system for building this.
+
+<a href="http://permana.net.id/"> Demo link
+
+## 2. BCM_Malacca
+
+A religion services purpose. For them share a inspiration story, profile and schedule inside of the website.
+
+<a href="https://chickenflakes9.wixsite.com/bethanychurchmalacca/"> Demo link
+
