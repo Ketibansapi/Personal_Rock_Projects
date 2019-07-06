@@ -1,7 +1,6 @@
 <h1 align="center" style="text-align: center;">Personal Rock Projects🔥</h1>
 <p align="center">A simple showcase for what i have done for recently and hosted in Github.</p>
 <p align="center">&copy;2019 All Right Reserved</p>
-
 ---
 
 ## User Interface Things:
@@ -35,7 +34,6 @@ Implemented Brad couse in bootstrap for building this template. A team project s
 Inspired from HTML5UP template for the team project startup profile purpose and responsive for any devices.
 
 <a href="https://github.com/Ketibansapi/Kreasi_Co">Source code</a> | <a href="https://dazzling-cori-c108c0.netlify.com/"> Demo link
-
 ---
 
 ## Content Management System Things:
