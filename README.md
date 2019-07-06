@@ -1,6 +1,6 @@
 <h1 align="center" style="text-align: center;">Personal Rock Projects🔥</h1>
-<p align="center">A simple showcase for what i have done for recently.</p>
-
+<p align="center">A simple showcase for what i have done for recently and hosted in Github.</p>
+<p align="center">&copy;2019 All Right Reserved</p>
 ---
 
 ## All around the User Interface:
@@ -13,6 +13,18 @@ A web template for a charity for animal rights. Technologies used and powererd b
 
 ## 2. RLab_UI
 
-A web template for a team startup project in a lab. Using classic HTML and CSS using Bootstrap class.
+A web template for a team startup project in a lab. Using classic HTML and CSS using Bootstrap class. Responsive for any other devices.
 
 <a href="https://github.com/Ketibansapi/RLab_User_Interface">Source code</a> | <a href="https://gallant-lamarr-7fa032.netlify.com/"> Demo link
+
+## 3. Personal_Portfolio
+
+Simple portfolio for the works and details information about personal. Using HTML5UP template for this website.
+
+<a href="https://github.com/Ketibansapi/Ketbs_portfolio">Source code</a> | <a href="https://www.dearyherdiano.com"> Demo link
+
+## 3. Creation_Template
+
+Implemented Brad couse in bootstrap for building this template. A team project static website profile purpose.
+
+<a href="https://github.com/Ketibansapi/creation_template">Source code</a> | <a href="https://wonderful-roentgen-4e7fdf.netlify.com"> Demo link
