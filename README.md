@@ -35,6 +35,24 @@ Inspired from HTML5UP template for the team project startup profile purpose and 
 
 <a href="https://github.com/Ketibansapi/Kreasi_Co">Source code</a> | <a href="https://dazzling-cori-c108c0.netlify.com/"> Demo link </a>
 
+## 6. Flatearth_ThreeJS
+
+Just a trial or sample building a 3D model for a website using Three JS. Made a simple cube to make flat earth real.
+
+<a href="https://github.com/Ketibansapi/flatearth_threejs">Source code</a> | <a href="https://thirsty-dijkstra-d3cabb.netlify.com/"> Demo link </a>
+
+## 7. React_Form
+
+Trying to implement react JS for building a simple form for sub component of a group.
+
+<a href="https://github.com/Ketibansapi/Revenue_Group">Source code</a>
+
+## 8. Travel_Agency
+
+Create website for the travel agency in Asia region and can submit the from through Netlify cloud hosting.
+
+<a href="https://github.com/Ketibansapi/Feedback_Travel">Source code</a> | <a href="https://determined-golick-5abd30.netlify.com/"> Demo link </a>
+
 -----
 
 ## Content Management System Things:
