@@ -1,6 +1,7 @@
 <h1 align="center" style="text-align: center;">[Personal Rock Projects]</h1>
 <p align="center">A simple showcase for what i have done for recently and hosted in Github.</p>
 
+------
 
 ## User Interface Things:
 
