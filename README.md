@@ -148,4 +148,6 @@ Simple design for Zoo Negara mobile application with the prototype using Adobe X
 
 <a href="https://github.com/Ketibansapi/Zoo_HCI_XD">Source code</a>
 
+------
+
 <p align="center">&copy;2019 Deary, All Right Reserved.</p>
