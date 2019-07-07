@@ -133,3 +133,9 @@ Building a full-stack web application implemented Azure cloud services and using
 
 <a href="https://github.com/Ketibansapi/Sport_ASP">Source code</a>
 
+## 7. Marketplate
+
+A platform or engine for human to find a home. Made inquiry then negotiate with the realtors inside Marketplate. Mde by Python especially Django Framework and integrate with PostgreSQL. Adding template using Bootstrap.
+
+<a href="https://github.com/Ketibansapi/Django_Marketplate">Source code</a>
+
