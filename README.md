@@ -1,6 +1,5 @@
 <h1 align="center" style="text-align: center;">[Personal Rock Projects]</h1>
 <p align="center">A simple showcase for what i have done for recently and hosted in Github.</p>
-<p align="center">&copy;2019 Deary, All Right Reserved.</p>
 ---
 
 ## User Interface Things:
@@ -139,3 +138,4 @@ A platform or engine for human to find a home. Made inquiry then negotiate with 
 
 <a href="https://github.com/Ketibansapi/Django_Marketplate">Source code</a>
 
+<p align="center">&copy;2019 Deary, All Right Reserved.</p>
