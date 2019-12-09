@@ -139,6 +139,18 @@ A platform or engine for human to find a home. Made inquiry then negotiate with 
 
 <a href="https://github.com/Ketibansapi/Django_Marketplate">Source code</a>
 
+## 8. Profilizer
+
+MERN stack is the core stack for this web application. Implemented from the react and express node. The app has function to do authentication and edit their profile then finally can do the social networking inside.
+
+<a href="https://gitlab.com/Ketibansapi/trooperz-rest">Source code</a> | <a href="https://trooperz-rest.herokuapp.com/"> Demo link </a>
+
+## 9. Slurp POS
+
+Contributing on point of sales project before and mostly created by Typescript for both back and front of the program. Quite big product, building by a team. Feel free to request a demo application.
+
+<a href="https://getslurp.com/"> Demo link </a>
+
 -------
 
 ## Human Computer Interaction things:
