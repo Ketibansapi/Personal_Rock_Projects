@@ -33,7 +33,7 @@ Implemented Brad couse in bootstrap for building this template. A team project s
 
 Inspired from HTML5UP template for the team project startup profile purpose and responsive for any devices.
 
-<a href="https://github.com/Ketibansapi/Kreasi_Co">Source code</a> | <a href="https://dazzling-cori-c108c0.netlify.com/"> Demo link </a>
+<a href="https://github.com/Ketibansapi/Kreasi_Co">Source code</a> | <a href="https://dazzling-cori-c108c0.netlify.com/"> Demo link </a> | <a href="https://competent-mahavira-0227f8.netlify.com/"> Demo link 2 </a>
 
 ## 6. Flatearth_ThreeJS
 
